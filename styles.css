@@ -1,16 +1,16 @@
 /* /*  your css code here. If ap */
 body{
-background-color: rgb(119, 119, 119);
+background-color: #f8f8f8;
 }
 h1{
  text-align: center;
 }
 .book-library{
-	background-color: rgb(119, 119, 119);
+	background-color: #f8f8f8;
 	align-items: center;
 }
 .book{
-	background-color: rgb(119, 119, 119);
+	background-color:  rgb(119, 119, 119);
 }
  img{
 	padding: 20px 180px;
